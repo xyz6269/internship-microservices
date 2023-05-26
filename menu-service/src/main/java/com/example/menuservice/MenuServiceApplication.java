@@ -14,6 +14,3 @@ public class MenuServiceApplication {
 }
 
 
-// token endpoint : http://localhost:8181/realms/food-delivery-microservices-realm/protocol/openid-connect/token
-
-// client secret : 	dqqobNVEOxeFpmEylYBXA6opIptQ7gHE
